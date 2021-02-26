@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1077749284177",
+    "project_id": "guia-cusco",
+    "storage_bucket": "guia-cusco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077749284177:android:9a179e826c6f7e14cde770",
+        "android_client_info": {
+          "package_name": "com.dscy.guiacusco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077749284177-5s1ukt9k88ol2jkb6thqqdhsnkhsgqg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYGGCTGNDDgNYDQYFzB6OQG-BoLK4HD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077749284177-5s1ukt9k88ol2jkb6thqqdhsnkhsgqg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
